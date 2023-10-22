@@ -1,0 +1,11 @@
+@media (hover: hover) {
+    li[data-rate]:hover {
+        color: var(--White);
+        background-color: var(--Light-Grey);
+    }
+
+    .rating-card__submit:hover {
+        background-color: var(--White);
+        color: var(--Orange);
+    }
+}
